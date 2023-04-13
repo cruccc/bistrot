@@ -11,21 +11,12 @@
 	box-sizing: border-box;
 }
 
-body {
-	font-family: 'Poppins', sans-serif;
-	background-color: #1A1D24;
-	display: grid;
-	place-items: center;
-	height: 100vh;
-}
-
 /* ======================== */
 
 .icons {
 	display: flex;
 	column-gap: 25px;
-	align-content: center;
-	
+	align-content: center;	
 }
 .icon {
 	display: flex;
