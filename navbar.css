@@ -1,10 +1,16 @@
 nav{
-    background-color: #333333;
+    background-color: rgb(22,22,22,0.95);
 }
 
 .nav-link{
     color: #ffffff !important;
 }
+
+.btn-prenota{
+    background-color: #333333 !important;
+    color: white !important;
+}
+
 @media screen and (max-width: 767px) {
     .navbar-collapse.collapse.show {
         display: block!important;
@@ -17,5 +23,10 @@ nav{
   
     .navbar-nav>li {
         float: none;
+    }
+}
+@media screen and (min-width: 768px) {
+    .navbar-collapse {
+        padding: 0 70px;
     }
 }
