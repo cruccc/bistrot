@@ -19,7 +19,7 @@
 	display: flex;
 	column-gap: 25px;
 	align-content: center;	
-	max-width: 230px;
+	max-width: 166px;
 	margin: 0 auto;
 }
 .icon {
@@ -54,18 +54,21 @@
 	);
 	outline-color: #a02d76;
 }
-.icon--twitter:hover {
+.icon--facebook:hover {
 	background-color: #1da1f2;
 	outline-color: #1da1f2;
 }
-.icon--linkedin:hover {
-	background-color: #0077b5;
-	outline-color: #0077b5;
+
+.icon--google:hover {
+	background-color: #c01c1c;
+	outline-color: #c01c1c;
 }
-.icon--github:hover {
-	background-color: #2ea44f;
-	outline-color: #2ea44f;
-}
+
+/*.icon--advisor:hover {
+	background-color: #40c01c;
+	outline-color: #40c01c;
+} */
+
 @keyframes shake {
 	10% {
 		transform: rotate(15deg);
