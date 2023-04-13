@@ -14,9 +14,13 @@
 /* ======================== */
 
 .icons {
+	padding-top: 10px;
+	padding-bottom: 20px;
 	display: flex;
 	column-gap: 25px;
 	align-content: center;	
+	max-width: 230px;
+	margin: 0 auto;
 }
 .icon {
 	display: flex;
