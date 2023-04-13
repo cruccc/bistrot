@@ -1,8 +1,49 @@
-html{
-    font-size: 16px;
+h1, h2, h3, h4, p, button {
     font-family: "Montserrat", sans-serif;
+    color: #111111;
+}
+
+h2{
+    font-size: 2.25rem;
+}
+
+p{
+    font-size: 16px;
+}
+
+button{
+    background-color: white;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 6px 28px;
+    font-size: 1rem;
 }
 
 body{
     margin: 0px;
+}
+
+.riga{
+    display: flex;
+    justify-content: center;
+}
+
+.riga1{
+    background-color: #f2f2f2;
+}
+
+.riquadro{
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #404040;
+    background-color: white;
+    margin: 40px 10px;
+    max-width: 503px;
+    padding: 20px;
+}
+
+.riquadro > *{
+    margin: 20px 0px;
 }
