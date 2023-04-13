@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="it">
-    <?php require "head.html";?>
+    <head>
+        <?php require "head.html";?>
+        <link rel="stylesheet" href="home.css">
+    </head>
 <body>
     <?php require "navbar.html";?>
-    <p>Testo di prova</p><br>
-    <p>Testo di prova</p><br>
-    <p>Testo di prova</p><br>
-    <p>Testo di prova</p><br>
-    <p>Testo di prova</p><br>
-    <p>Testo di prova</p><br>
+    <img class="img-fluid copertina" src="images/copertina_crop.jpeg">
     <?php require "footer.html";?>
 </body>
 </html>
