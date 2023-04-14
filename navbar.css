@@ -6,6 +6,10 @@ nav{
     color: #ffffff !important;
 }
 
+.nav-link:hover{
+    color: #ccc !important;
+}
+
 .btn-prenota{
     background-color: #333333 !important;
     color: white !important;
