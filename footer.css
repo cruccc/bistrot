@@ -19,7 +19,7 @@
 	display: flex;
 	column-gap: 25px;
 	align-content: center;	
-	max-width: 166px;
+	max-width: 300px;
 	margin: 0 auto;
 }
 .icon {
