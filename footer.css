@@ -19,8 +19,9 @@
 	display: flex;
 	column-gap: 25px;
 	align-content: center;	
-	max-width: 300px;
+	max-width: 166px;
 	margin: 0 auto;
+	
 }
 .icon {
 	display: flex;
