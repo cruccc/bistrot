@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css?<?php echo time();?>">
+<link rel="stylesheet" href="style.css?<?php echo time();?>"><!--refresh forzato del file css con "time()"-->
 <link rel="stylesheet" href="navbar.css?<?php echo time();?>">
 <link rel="stylesheet" href="footer.css?<?php echo time();?>">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat'>
