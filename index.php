@@ -2,7 +2,7 @@
 <html lang="it">
     <head>
         <?php require "head.php";?>
-        <link rel="stylesheet" href="home.css<?php echo time();?>">
+        <link rel="stylesheet" href="home.css?<?php echo time();?>">
     </head>
 <body>
     <?php require "navbar.html";?>
