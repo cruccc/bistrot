@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="it">
     <head>
-        <?php require "head.html";?>
-        <link rel="stylesheet" href="home.css">
+        <?php require "head.php";?>
+        <link rel="stylesheet" href="home.css<?php echo time();?>">
     </head>
 <body>
     <?php require "navbar.html";?>

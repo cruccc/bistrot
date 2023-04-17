@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="navbar.css">
-<link rel="stylesheet" href="footer.css">
+<link rel="stylesheet" href="style.css?<?php echo time();?>">
+<link rel="stylesheet" href="navbar.css<?php echo time();?>">
+<link rel="stylesheet" href="footer.css<?php echo time();?>">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat'>
 <meta charset="utf-8">
 <!--Icone-->
