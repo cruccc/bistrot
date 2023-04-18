@@ -17,13 +17,12 @@
                 <button class = "btn-menu" href="#"><b>MENU'<b></button>
             </div>
         </div>
-        <div class="row riga riga1">
+        <div class="row riga riga1" id="section-2" >
             <div class="riquadro">
                 <h2>VIENI A TROVARCI</h2>
-                <p>VIALE TRENTO 97, 63900, FERMO (FM)</p>
-                <p>MARCHE, ITALIA</p>
-                <p><a href="tel:+39 0734226124" style="color: #000000">TELEFONO: +39 0734226124</a></p>
-                <p><a href="tel:+39 328 2139611" style="color: #000000">CELLULARE: +39 328 2139611</a></p>
+                <p>VIALE TRENTO 97, 63900, FERMO (FM)<br>MARCHE, ITALIA<br>
+                <a href="tel:+39 0734226124" style="color: #000000">TELEFONO: +39 0734226124</a><br>
+                <a href="tel:+39 328 2139611" style="color: #000000">CELLULARE: +39 328 2139611</a></p>
             </div>
         </div>
         <div class="row riga riga1">
