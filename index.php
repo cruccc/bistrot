@@ -22,9 +22,8 @@
                 <h2>VIENI A TROVARCI</h2>
                 <p>VIALE TRENTO 97, 63900, FERMO (FM)</p>
                 <p>MARCHE, ITALIA</p>
-                <p>TELEFONO: +39 0734226124</p>
-                <p>WHATSAPP: +39 328 2139611
-                </p>
+                <p><a href="tel:+39 0734226124" style="color: #f7f7f7">TELEFONO: +39 0734226124</a></p>
+                <p><a href="tel:+39 328 2139611" style="color: #f7f7f7">CELLULARE: +39 328 2139611</a></p>
             </div>
         </div>
         <div class="row riga riga1">
