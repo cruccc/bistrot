@@ -77,10 +77,10 @@
 
                     <!-- Left and right controls -->
                     <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                        <span class="carousel-control-prev-icon" style="height:40px;width:40px;color:#404040;"></span>
+                        <i class="freccia-sinistra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
                     <a class="carousel-control-next" href="#demo" data-slide="next">
-                        <span class="carousel-control-next-icon" style="height:40px;width:40px;color:#404040;"></span>
+                        <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
 
                 </div>

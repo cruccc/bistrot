@@ -35,3 +35,11 @@
 .carousel-inner{
   padding: 15px;
 }
+
+.freccia-destra{
+  background-image: url(images/icons/arrow-drop-right-line.svg);
+}
+
+.freccia-sinistra{
+  background-image: url(images/icons/arrow-drop-left-line.svg);
+}
