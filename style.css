@@ -31,7 +31,7 @@ body{
 .riga{
     display: flex;
     justify-content: center;
-    padding: 40px 0px;
+    padding: 80px 0px;
 }
 
 .riga2{
@@ -48,7 +48,8 @@ body{
     border-width: 3px;
     border-color: #404040;
     background-color: white;
-    margin: 40px 10px;
+    margin: 0px 10px;
+    width: 503px;
     max-width: 503px;
     padding: 20px;
 }

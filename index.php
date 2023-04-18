@@ -7,10 +7,15 @@
 <body>
     <?php require "navbar.html";?>
 
+    <!--Inizio contenuto pagina home-->
     <div class="container-fluid">
+
+        <!--Immagine di copertina-->
         <div class="row riga1">
             <img class="img-fluid copertina" src="images/copertina_crop.jpeg">
         </div>
+
+        <!--Riquadro menu-->
         <div class="row riga riga2">
             <div class="riquadro">
                 <h2>SCOPRI IL MENU'</h2>
@@ -18,10 +23,15 @@
                 <button class = "btn-menu" href="#"><b>MENU'<b></button>
             </div>
         </div>
+
+        <!--Carousel birre alla spina-->
         <div class="row riga riga1">
             <div class="col-md"></div>
-            <div class="col-md-4">
-                <h2 style="text-align:center">LE NOSTRE BIRRE ALLA SPINA</h2>
+            <div class="col-md-6 col-sm-8">
+
+                <h2 style="text-align:center;padding-bottom:20px;">LE NOSTRE BIRRE ALLA SPINA</h2>
+
+                <!--Carosello-->
                 <div id="demo" class="carousel slide" data-ride="carousel">
 
                     <!-- Indicators -->
@@ -68,9 +78,12 @@
                     </a>
 
                 </div>
+
             </div>
             <div class="col-md"></div>
         </div>
+
+        <!--Riquadro contatti-->
         <div class="row riga riga2" id="section-2" >
             <div class="riquadro">
                 <h2>VIENI A TROVARCI</h2>
@@ -79,6 +92,8 @@
                 <a href="tel:+39 3282139611" style="color: #000000">CELLULARE: +39 328 2139611</a></p>
             </div>
         </div>
+
+        <!--Mappa-->
         <div class="row riga1">
             <div class="google-maps">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11639.595293407669!2d13.7338154!3d43.1696479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133211de6dfb01e1%3A0xb8289bf6a854ef0a!2sBistrot83!5e0!3m2!1sit!2sit!4v1681548251873!5m2!1sit!2sit" 
@@ -87,6 +102,7 @@
             </div>
         </div> 
     </div>
+    <!--Fine contenuto pagina home-->
 
     <?php require "footer.html";?>
 </body>
