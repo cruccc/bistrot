@@ -14,10 +14,14 @@ p{
 button{
     background-color: white;
     border-width: 3px;
-    border-color: black;
+    border-color: #000000;
     border-style: solid;
     padding: 6px 28px;
     font-size: 1rem;
+}
+
+.btn-menu:hover{
+    background-color: #f1eeee;
 }
 
 body{
@@ -47,3 +51,4 @@ body{
 .riquadro > *{
     margin: 20px 0px;
 }
+

@@ -2,18 +2,18 @@
     width: 100%;
 }
 .google-maps {
-    position: relative;
-    padding-bottom: 75%; 
-    height: 0;
-    overflow: hidden;
-    
-  }
-  .google-maps > iframe {
-    position: absolute;
-    top: 0;
-    width: 100% !important;
-    height: 60% !important;
-  }
+  position: relative;
+  height: 400px !important;
+  width: 100% !important;
+  overflow: hidden;
+  background-color: #f7f7f7;
+}
+
+.google-maps > iframe {
+  position: absolute;
+  width: 100% !important;
+  height: 400px !important;
+}
 
 .carousel-riquadro{
   text-align: center;
