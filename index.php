@@ -17,6 +17,59 @@
                 <button href="#"><b>MENU'<b></button>
             </div>
         </div>
+        <div class="row riga riga1">
+            <div class="col-md"></div>
+            <div class="col-md-4">
+                <h2 style="text-align:center">LE NOSTRE BIRRE ALLA SPINA</h2>
+                <div id="demo" class="carousel slide" data-ride="carousel">
+
+                    <!-- Indicators -->
+                    <ul class="carousel-indicators">
+                        <li data-target="#demo" data-slide-to="0" class="active"></li>
+                        <li data-target="#demo" data-slide-to="1"></li>
+                        <li data-target="#demo" data-slide-to="2"></li>
+                    </ul>
+
+                    <!-- The slideshow -->
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="carousel-riquadro">
+                                <img src="images/hellison_beer.png" alt="Birra1" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">Birra fratm1</h3>
+                                <hr>
+                                <p>Birrificio : Styles<br>Gradazione alcolica: 4.8% Vol<br>Descrizione:<br>Helles è uno stile di birra chiara tedesca a bassa fermentazione (ovvero una lager) prodotta per lo più a Monaco, in baviera. Il colore è giallo pagliarino con schiuma bianca pannosa e persistente.</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel-riquadro">
+                                <img src="images/Lilly-Smoke.png" alt="Birra2" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">Birra fratm1</h3>
+                                <hr>
+                                <p>Birrificio : Styles<br>Gradazione alcolica: 4.8% Vol<br>Descrizione:<br>Helles è uno stile di birra chiara tedesca a bassa fermentazione (ovvero una lager) prodotta per lo più a Monaco, in baviera. Il colore è giallo pagliarino con schiuma bianca pannosa e persistente.</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel-riquadro">
+                                <img src="images/PoggieVolpi_cerchiobirre2.jpg" alt="Birra3" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">Birra fratm1</h3>
+                                <hr>
+                                <p>Birrificio : Styles<br>Gradazione alcolica: 4.8% Vol<br>Descrizione:<br>Helles è uno stile di birra chiara tedesca a bassa fermentazione (ovvero una lager) prodotta per lo più a Monaco, in baviera. Il colore è giallo pagliarino con schiuma bianca pannosa e persistente.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                        <span class="carousel-control-prev-icon" style="height:40px;width:40px;color:#404040;"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#demo" data-slide="next">
+                        <span class="carousel-control-next-icon" style="height:40px;width:40px;color:#404040;"></span>
+                    </a>
+
+                </div>
+            </div>
+            <div class="col-md"></div>
+        </div>
     </div>
 
     <div class="google-maps" style="align-items: center;">
