@@ -14,3 +14,24 @@
   width: 100% !important;
   height: 400px !important;
 }
+
+.carousel-riquadro{
+  text-align: center;
+}
+
+.carousel-immagine{
+  width: 100%;
+}
+
+.carousel{
+  border-style: solid;
+  border-color: #404040;
+  background-color: white;
+  max-width: 500px;
+  margin: 0px auto;
+  
+}
+
+.carousel-inner{
+  padding: 15px;
+}
