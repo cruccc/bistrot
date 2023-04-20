@@ -20,7 +20,7 @@
             <div class="riquadro">
                 <h2>SCOPRI IL MENU'</h2>
                 <p>Il vero antipasto marchigiano con taglieri di affettati e formaggi selezionati, le nostre fritture miste e una selezione di crostini. Le nostre pizze, salate e dolci, la varietà di hamburger, le nostre tagliate e per concludere i nostri dolci freschi e fatti in casa! Cosa aspetti? Fai la tua scelta e vieni ad assaggiare le nostre delizie!</p>
-                <button class="btn" onclick="document.location='menu.php'"><b>MENU'</b></button>
+                <button class="mybtn" onclick="document.location='menu.php'"><b>MENU'</b></button>
             </div>
         </div>
 
@@ -84,7 +84,9 @@
                         <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
                 </div>
-
+                <div style="display: flex; justify-content: center; padding-top: 80px">
+                    <button class="mybtn" onclick="document.location='menu.php'"><b>SCOPRI TUTTE LE BIRRE</b></button>
+                </div>
             </div>
             <div class="col-md"></div>
             
