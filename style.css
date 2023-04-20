@@ -18,6 +18,8 @@ p{
     border-style: solid;
     padding: 6px 28px;
     font-size: 1rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .btn:hover{

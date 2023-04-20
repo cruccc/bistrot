@@ -62,6 +62,7 @@
                                 <p><b>Gradazione alcolica:</b> 4.8% Vol</p>
                                 <p><b>Descrizione:</b> Helles è uno stile di birra chiara tedesca a bassa fermentazione (ovvero una lager) prodotta per lo più a Monaco, in baviera. Il colore è giallo pagliarino con schiuma bianca pannosa e persistente.</p>
                             </div>
+                            
                         </div>
                         <div class="carousel-item">
                             <div class="carousel-riquadro">
@@ -82,11 +83,11 @@
                     <a class="carousel-control-next" href="#demo" data-slide="next">
                         <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
-
                 </div>
 
             </div>
             <div class="col-md"></div>
+            
         </div>
 
         <!--Riquadro contatti-->
