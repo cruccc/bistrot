@@ -92,8 +92,16 @@
             
         </div>
 
+        <!--Riquadro orari-->
+        <div class="row riga riga2">
+            <div class="riquadro">
+                <h2>ORARI DI APERTURA</h2>
+                <img class="img-fluid" style="margin:0px;" src="images/copertina_crop.jpeg">
+            </div>
+        </div>
+
         <!--Riquadro contatti-->
-        <div class="row riga riga2" id="section-2" >
+        <div class="row riga riga1" id="section-2" >
             <div class="riquadro">
                 <h2>VIENI A TROVARCI</h2>
                 <p>VIALE TRENTO 97, 63900, FERMO (FM)<br>MARCHE, ITALIA<br>
