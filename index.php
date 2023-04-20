@@ -94,9 +94,8 @@
 
         <!--Riquadro orari-->
         <div class="row riga riga2">
-            <div class="riquadro">
-                <h2>ORARI DI APERTURA</h2>
-                <img class="img-fluid" style="margin:0px;" src="images/copertina_crop.jpeg">
+            <div class="riquadro" style="background-color:#faf8f6;">
+                <img class="img-fluid" src="images/orari.png">
             </div>
         </div>
 
