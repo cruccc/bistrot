@@ -11,7 +11,8 @@ p{
     font-size: 16px;
 }
 
-.mybtn{
+
+.my-btn{
     background-color: white;
     border-width: 3px;
     border-color: #000000;
@@ -22,7 +23,7 @@ p{
     margin-right: auto;
 }
 
-.mybtn:hover{
+.my-btn:hover{
     background-color: #f1eeee;
 }
 
