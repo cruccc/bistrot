@@ -84,14 +84,23 @@
                         <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
                 </div>
-
+                <div style="display: flex; justify-content: center; padding-top: 80px">
+                    <button class="mybtn" onclick="document.location='menu.php'"><b>SCOPRI TUTTE LE BIRRE</b></button>
+                </div>
             </div>
             <div class="col-md"></div>
             
         </div>
 
+        <!--Riquadro orari-->
+        <div class="row riga riga2">
+            <div class="riquadro" style="background-color:#faf8f6;">
+                <img class="img-fluid" src="images/orari.png">
+            </div>
+        </div>
+
         <!--Riquadro contatti-->
-        <div class="row riga riga2" id="section-2" >
+        <div class="row riga riga1" id="section-2" >
             <div class="riquadro">
                 <h2>VIENI A TROVARCI</h2>
                 <p>VIALE TRENTO 97, 63900, FERMO (FM)<br>MARCHE, ITALIA<br>
