@@ -10,6 +10,7 @@
     
 
     <!--Inizio contenuto pagina menu-->
+    
     <div class="container-fluid"><br>
             <!--Riquadro contatti-->
         <div class="row riga riga1">
@@ -18,8 +19,10 @@
                 <p style= "font-size: 20px;">VIALE TRENTO 97, 63900, FERMO (FM)<br>MARCHE, ITALIA<br>
                 <a href="tel:+39 0734226124" style="color: #000000">TELEFONO: +39 0734226124</a><br>
                 <a href="tel:+39 3282139611" style="color: #000000">CELLULARE: +39 328 2139611</a></p>
+
             </div>
         </div>
+        
          <!--Mappa-->
          <div class="row riga2">
             <?php require "mappa.html";?>  
