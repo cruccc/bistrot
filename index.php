@@ -22,6 +22,8 @@
                 <p>Siete pronti per un'esperienza gastronomica indimenticabile? Benvenuti nel nostro pub, dove la pizza è la regina indiscussa del menù!
                     Abbiamo una vasta selezione che vanno dalle classiche pizze bianche e rosse ai nostri incredibili calzoni. La nostra focaccia è cotta al forno a legna e farcita con ingredienti freschi e deliziosi, mentre i nostri calzoni sono una vera e propria festa per il palato, ripieni di formaggi fusi, verdure croccanti e carni gustose</p>
                 <button class="my-btn" onclick="document.location='menu.php'"><b>MENU'</b></button>
+
+
             </div>
         </div>
 
@@ -47,7 +49,7 @@
                         <div class="carousel-item active">
                             <div class="carousel-riquadro">
                                 <img src="images/birre/hellison_beer.png" alt="Birra1" class="carousel-immagine img-fluid">
-                                <h3 style="padding-top:20px;">Birra fratm1</h3>
+                                <h3 style="padding-top:20px;">Birra 1</h3>
                                 <hr>
                                 <p><b>Birrificio:</b> Styles</p>
                                 <p><b>Gradazione alcolica:</b> 4.8% Vol</p>
@@ -57,7 +59,7 @@
                         <div class="carousel-item">
                             <div class="carousel-riquadro">
                                 <img src="images/birre/Lilly-Smoke.png" alt="Birra2" class="carousel-immagine img-fluid">
-                                <h3 style="padding-top:20px;">Birra fratm1</h3>
+                                <h3 style="padding-top:20px;">Birra 2</h3>
                                 <hr>
                                 <p><b>Birrificio:</b> Styles</p>
                                 <p><b>Gradazione alcolica:</b> 4.8% Vol</p>
@@ -68,7 +70,18 @@
                         <div class="carousel-item">
                             <div class="carousel-riquadro">
                                 <img src="images/birre/PoggieVolpi_cerchiobirre2.jpg" alt="Birra3" class="carousel-immagine img-fluid">
-                                <h3 style="padding-top:20px;">Birra fratm1</h3>
+                                <h3 style="padding-top:20px;">Birra 3</h3>
+                                <hr>
+                                <p><b>Birrificio:</b> Styles</p>
+                                <p><b>Gradazione alcolica:</b> 4.8% Vol</p>
+                                <p><b>Descrizione:</b> Helles è uno stile di birra chiara tedesca a bassa fermentazione (ovvero una lager) prodotta per lo più a Monaco, in baviera. Il colore è giallo pagliarino con schiuma bianca pannosa e persistente.</p>
+                            </div>
+                        </div>
+
+                        <div class="carousel-item">
+                            <div class="carousel-riquadro">
+                                <img src="images/birre/PoggieVolpi_cerchiobirre2.jpg" alt="Birra3" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">Birra 4</h3>
                                 <hr>
                                 <p><b>Birrificio:</b> Styles</p>
                                 <p><b>Gradazione alcolica:</b> 4.8% Vol</p>
@@ -85,6 +98,11 @@
                         <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
                 </div>
+              
+                <div style="display: flex; justify-content: center; padding-top: 80px">
+                <a href="https://www.leggimenu.it/menu/79sk3f2o85q1/150361" style="text-decoration: none; color: black" class="my-btn"><b>SCOPRI TUTTE LE BIRRE</b></a>
+                </div>
+
             </div>
             <div class="col-md"></div>  
         </div>
