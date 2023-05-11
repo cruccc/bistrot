@@ -33,6 +33,10 @@
   width: 100%;
 }
 
+.carousel-immagine1{
+  width: 100%;
+}
+
 .carousel{
   border-style: solid;
   border-color: #404040;
@@ -53,3 +57,4 @@
 .freccia-sinistra{
   background-image: url(images/icons/arrow-drop-left-line.svg);
 }
+

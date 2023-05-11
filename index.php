@@ -19,8 +19,11 @@
         <div class="row riga riga2">
             <div class="riquadro">
                 <h2>SCOPRI IL MENU'</h2>
-                <p>Il vero antipasto marchigiano con taglieri di affettati e formaggi selezionati, le nostre fritture miste e una selezione di crostini. Le nostre pizze, salate e dolci, la varietà di hamburger, le nostre tagliate e per concludere i nostri dolci freschi e fatti in casa! Cosa aspetti? Fai la tua scelta e vieni ad assaggiare le nostre delizie!</p>
-                <a href="https://www.leggimenu.it/menu/79sk3f2o85q1" style="text-decoration: none; color: black" class="my-btn"><b>MENU'</b></a>
+                <p>Siete pronti per un'esperienza gastronomica indimenticabile? Benvenuti nel nostro pub, dove la pizza è la regina indiscussa del menù!
+                    Abbiamo una vasta selezione che vanno dalle classiche pizze bianche e rosse ai nostri incredibili calzoni. La nostra focaccia è cotta al forno a legna e farcita con ingredienti freschi e deliziosi, mentre i nostri calzoni sono una vera e propria festa per il palato, ripieni di formaggi fusi, verdure croccanti e carni gustose</p>
+                <button class="my-btn" onclick="document.location='menu.php'"><b>MENU'</b></button>
+
+
             </div>
         </div>
 
@@ -95,23 +98,102 @@
                         <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
                 </div>
+              
                 <div style="display: flex; justify-content: center; padding-top: 80px">
                 <a href="https://www.leggimenu.it/menu/79sk3f2o85q1/150361" style="text-decoration: none; color: black" class="my-btn"><b>SCOPRI TUTTE LE BIRRE</b></a>
                 </div>
+
             </div>
-            <div class="col-md"></div>
-            
+            <div class="col-md"></div>  
         </div>
 
-        <!--Riquadro orari-->
+        <!--Carousel eventi della settimana-->
         <div class="row riga riga2">
+            <div class="col-md"></div>
+            <div class="col-md-6 col-sm-8">
+
+                <h2 style="text-align:center;padding-bottom:20px;">GLI EVENTI DELLA SETTIMANA</h2>
+
+                <!--Carosello-->
+                <div id="demo1" class="carousel slide" data-ride="carousel">
+
+                    <!-- Indicators -->
+                    <ul class="carousel-indicators">
+                        <li data-target="#demo1" data-slide-to="0" class="active"></li>
+                        <li data-target="#demo1" data-slide-to="1"></li> <!-- #demo1 = Id foto-corrente -->
+                        <li data-target="#demo1" data-slide-to="2"></li>
+                        <li data-target="#demo1" data-slide-to="3"></li>
+                    </ul>
+
+                    <!-- The slideshow -->
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="carousel-riquadro">
+                                <img src="images/eventi/" alt="Evento1" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">IL MARTEDI' DA SAFI</h3>
+                                <hr>
+                                <p><b>Evento:</b> </p>
+                                <p><b>Data:</b> </p>
+                                <p><b>Descrizione:</b></p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel-riquadro">
+                                <img src="images/eventi/giovedidasafi.jpg" alt="Evento2" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">IL GIOVEDI' UNIVERSITARIO</h3>
+                                <hr>
+                                <p><b>Evento:</b> </p>
+                                <p><b>Data:</b> </p>
+                                <p><b>Descrizione:</b></p>
+                            </div>
+                            
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel-riquadro">
+                                <img src="images/eventi/sabatodasafi.jpg" alt="Evento3" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">IL SABATO</h3>
+                                <hr>
+                                <p><b>Evento:</b> </p>
+                                <p><b>Data:</b> </p>
+                                <p><b>Descrizione:</b></p>
+                            </div>
+                        </div>
+
+                        <div class="carousel-item">
+                            <div class="carousel-riquadro">
+                                <img src="images/eventi/altroevento.jpg" alt="Evento4" class="carousel-immagine img-fluid">
+                                <h3 style="padding-top:20px;">ALTRI EVENTI</h3>
+                                <hr>
+                                <p><b>Evento:</b> </p>
+                                <p><b>Data:</b> </p>
+                                <p><b>Descrizione:</b></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="carousel-control-prev" href="#demo1" data-slide="prev">
+                        <i class="freccia-sinistra" style="height:64px;width:64px;color:#404040;"></i>
+                    </a>
+                    <a class="carousel-control-next" href="#demo1" data-slide="next">
+                        <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md"></div>  
+        </div>
+
+        
+
+        <!--Riquadro orari-->
+        <div class="row riga riga1">
             <div class="riquadro" style="background-color:#faf8f6;">
                 <img class="img-fluid" src="images/orari.png">
             </div>
         </div>
 
         <!--Riquadro contatti-->
-        <div class="row riga riga1">
+        <div class="row riga riga2">
             <?php require "vieni-a-trovarci.html";?>
         </div>
 

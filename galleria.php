@@ -126,7 +126,7 @@
                 <img class="demo cursor" src="images/copertina.jpeg" style="width:100%" onclick="currentSlide(4)" alt="">
               </div>
               <div class="column">
-                <img class="demo cursor" src="images/copertina.jpeg"style="width:100%" onclick="currentSlide(5)" alt="">
+                <img class="demo cursor" src="images/copertina.jpeg" style="width:100%" onclick="currentSlide(5)" alt="">
               </div>
               <div class="column">
                 <img class="demo cursor" src="images/copertina.jpeg" style="width:100%" onclick="currentSlide(6)" alt="">
