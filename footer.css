@@ -1,3 +1,8 @@
+/* ======================== */
+/* 
+    Ignore the following styles. They are not important to achieve the effect.
+    I'm only using them for looks (overall page background/font styles/centering content).
+*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 * {
@@ -5,6 +10,8 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+/* ======================== */
 
 .icons {
 	padding-top: 10px;
@@ -14,6 +21,7 @@
 	align-content: center;	
 	max-width: 166px;
 	margin: 0 auto;
+	
 }
 .icon {
 	display: flex;
@@ -57,6 +65,11 @@
 	background-color: #c01c1c;
 	outline-color: #c01c1c;
 }
+
+/*.icon--advisor:hover {
+	background-color: #40c01c;
+	outline-color: #40c01c;
+} */
 
 @keyframes shake {
 	10% {
