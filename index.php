@@ -20,7 +20,7 @@
             <div class="riquadro">
                 <h2>SCOPRI IL MENU'</h2>
                 <p>Siete pronti per un'esperienza gastronomica indimenticabile? Benvenuti nel nostro pub, dove la pizza è la regina indiscussa del menù!
-                    Abbiamo una vasta selezione che va dalle classiche pizze bianche e rosse ai nostri incredibili calzoni. La nostra focaccia è cotta al forno a legna e farcita con ingredienti freschi e deliziosi, mentre i nostri calzoni sono una vera e propria festa per il palato, ripieni di formaggi fusi, verdure croccanti e carni gustose</p>
+                    Abbiamo una vasta selezione che vanno dalle classiche pizze bianche e rosse ai nostri incredibili calzoni. La nostra focaccia è cotta al forno a legna e farcita con ingredienti freschi e deliziosi, mentre i nostri calzoni sono una vera e propria festa per il palato, ripieni di formaggi fusi, verdure croccanti e carni gustose</p>
                 <button class="my-btn" onclick="document.location='menu.php'"><b>MENU'</b></button>
             </div>
         </div>
