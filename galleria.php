@@ -7,7 +7,10 @@
 <body>
   <?php require "navbar.html";?>
   <div class= "container-fluid">
-    <div class="row" style="background-color: white; padding:15px 0px">
+    <div class="row riga1" style="display: flex; justify-content: center; padding-top: 15px">
+      <h2 style="margin: 0px; font-size: 49px;">Galleria</h2>
+    </div>
+    <div class="row riga1" style="padding:15px 0px">
       <div class="col-sm"></div>
       <div class="col-md-7 col-sm-8">
 
