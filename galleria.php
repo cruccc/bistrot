@@ -8,7 +8,7 @@
   <?php require "navbar.html";?>
   <div class= "container-fluid">
     <div class="row riga1" style="display: flex; justify-content: center; padding-top: 15px">
-      <h2 style="margin: 0px; font-size: 49px;">Galleria</h2>
+      <h2 style="margin: 0px; font-size: 49px; padding: 20px 0px;">Galleria</h2>
     </div>
     <div class="row riga1" style="padding:15px 0px">
       <div class="col-sm"></div>
