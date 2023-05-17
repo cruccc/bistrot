@@ -100,98 +100,20 @@
                 <div style="display: flex; justify-content: center; padding-top: 60px">
                     <a href="https://www.leggimenu.it/menu/nirvana-da-safi/151313" target="_blank" style="text-decoration: none; color: black" class="my-btn"><b>SCOPRI TUTTE LE BIRRE</b></a>
                 </div>
-
             </div>
-            <div class="col-md"></div>  
-        </div>
-
-        <!--Carousel eventi della settimana-->
-        <div class="row riga riga2">
             <div class="col-md"></div>
-            <div class="col-md-6 col-sm-8">
-
-                <h2 style="text-align:center;padding-bottom:20px;">GLI EVENTI DELLA SETTIMANA</h2>
-
-                <!--Carosello-->
-                <div id="demo1" class="carousel slide" data-ride="carousel">
-
-                    <!-- Indicators -->
-                    <ul class="carousel-indicators">
-                        <li data-target="#demo1" data-slide-to="0" class="active"></li>
-                        <li data-target="#demo1" data-slide-to="1"></li> <!-- #demo1 = Id foto-corrente -->
-                        <li data-target="#demo1" data-slide-to="2"></li>
-                        <li data-target="#demo1" data-slide-to="3"></li>
-                    </ul>
-
-                    <!-- The slideshow -->
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <div class="carousel-riquadro">
-                                <img src="images/eventi/" alt="Evento1" class="carousel-immagine img-fluid">
-                                <h3 style="padding-top:20px;">IL MARTEDI' DA SAFI</h3>
-                                <hr>
-                                <p><b>Evento:</b> </p>
-                                <p><b>Data:</b> </p>
-                                <p><b>Descrizione:</b></p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="carousel-riquadro">
-                                <img src="images/eventi/giovedidasafi.jpg" alt="Evento2" class="carousel-immagine img-fluid">
-                                <h3 style="padding-top:20px;">IL GIOVEDI' UNIVERSITARIO</h3>
-                                <hr>
-                                <p><b>Evento:</b> </p>
-                                <p><b>Data:</b> </p>
-                                <p><b>Descrizione:</b></p>
-                            </div>
-                            
-                        </div>
-                        <div class="carousel-item">
-                            <div class="carousel-riquadro">
-                                <img src="images/eventi/sabatodasafi.jpg" alt="Evento3" class="carousel-immagine img-fluid">
-                                <h3 style="padding-top:20px;">IL SABATO</h3>
-                                <hr>
-                                <p><b>Evento:</b> </p>
-                                <p><b>Data:</b> </p>
-                                <p><b>Descrizione:</b></p>
-                            </div>
-                        </div>
-
-                        <div class="carousel-item">
-                            <div class="carousel-riquadro">
-                                <img src="images/eventi/altroevento.jpg" alt="Evento4" class="carousel-immagine img-fluid">
-                                <h3 style="padding-top:20px;">ALTRI EVENTI</h3>
-                                <hr>
-                                <p><b>Evento:</b> </p>
-                                <p><b>Data:</b> </p>
-                                <p><b>Descrizione:</b></p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Left and right controls -->
-                    <a class="carousel-control-prev" href="#demo1" data-slide="prev">
-                        <i class="freccia-sinistra" style="height:64px;width:64px;color:#404040;"></i>
-                    </a>
-                    <a class="carousel-control-next" href="#demo1" data-slide="next">
-                        <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md"></div>  
+            
         </div>
-
-        
 
         <!--Riquadro orari-->
-        <div class="row riga riga1">
+        <div class="row riga riga2">
             <div class="riquadro" style="background-color:#faf8f6;">
                 <img class="img-fluid" src="images/orari.png">
             </div>
         </div>
 
         <!--Riquadro contatti-->
-        <div class="row riga riga2">
+        <div class="row riga riga1">
             <?php require "vieni-a-trovarci.html";?>
         </div>
 
