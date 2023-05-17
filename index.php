@@ -12,15 +12,16 @@
 
         <!--Immagine di copertina-->
         <div class="row riga1">
-            <img class="img-fluid copertina" src="images/copertina_crop.jpeg">
+            <img class="img-fluid copertina" src="images/copertina_nirvana_crop.jpg">
         </div>
 
         <!--Riquadro menu-->
         <div class="row riga riga2">
             <div class="riquadro">
                 <h2>SCOPRI IL MENU'</h2>
-                <p>Il vero antipasto marchigiano con taglieri di affettati e formaggi selezionati, le nostre fritture miste e una selezione di crostini. Le nostre pizze, salate e dolci, la varietà di hamburger, le nostre tagliate e per concludere i nostri dolci freschi e fatti in casa! Cosa aspetti? Fai la tua scelta e vieni ad assaggiare le nostre delizie!</p>
-                <a href="https://www.leggimenu.it/menu/79sk3f2o85q1" style="text-decoration: none; color: black" class="my-btn"><b>MENU'</b></a>
+                <p>Siete pronti per un'esperienza gastronomica indimenticabile? Benvenuti nel nostro pub, dove la pizza è la regina indiscussa del menù!
+                    Abbiamo una vasta selezione che va dalle classiche pizze bianche e rosse ai nostri incredibili calzoni. La nostra focaccia è cotta al forno a legna e farcita con ingredienti freschi e deliziosi, mentre i nostri calzoni sono una vera e propria festa per il palato, ripieni di formaggi fusi, verdure croccanti e carni gustose</p>
+                    <a href="https://www.leggimenu.it/menu/79sk3f2o85q1/150361" target="_blank" style="text-decoration: none; color: black" class="my-btn"><b>MENU'</b></a>
             </div>
         </div>
 
@@ -95,8 +96,9 @@
                         <i class="freccia-destra" style="height:64px;width:64px;color:#404040;"></i>
                     </a>
                 </div>
-                <div style="display: flex; justify-content: center; padding-top: 80px">
-                <a href="https://www.leggimenu.it/menu/79sk3f2o85q1/150361" style="text-decoration: none; color: black" class="my-btn"><b>SCOPRI TUTTE LE BIRRE</b></a>
+              
+                <div style="display: flex; justify-content: center; padding-top: 60px">
+                    <a href="https://www.leggimenu.it/menu/nirvana-da-safi/151313" target="_blank" style="text-decoration: none; color: black" class="my-btn"><b>SCOPRI TUTTE LE BIRRE</b></a>
                 </div>
             </div>
             <div class="col-md"></div>
