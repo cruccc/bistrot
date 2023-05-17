@@ -12,7 +12,7 @@
 
         <!--Immagine di copertina-->
         <div class="row riga1">
-            <img class="img-fluid copertina" src="images/copertina_crop.jpeg">
+            <img class="img-fluid copertina" src="images/copertina_nirvana_crop.jpg">
         </div>
 
         <!--Riquadro menu-->
@@ -21,7 +21,7 @@
                 <h2>SCOPRI IL MENU'</h2>
                 <p>Siete pronti per un'esperienza gastronomica indimenticabile? Benvenuti nel nostro pub, dove la pizza è la regina indiscussa del menù!
                     Abbiamo una vasta selezione che va dalle classiche pizze bianche e rosse ai nostri incredibili calzoni. La nostra focaccia è cotta al forno a legna e farcita con ingredienti freschi e deliziosi, mentre i nostri calzoni sono una vera e propria festa per il palato, ripieni di formaggi fusi, verdure croccanti e carni gustose</p>
-                <button class="my-btn" onclick="document.location='menu.php'"><b>MENU'</b></button>
+                    <a href="https://www.leggimenu.it/menu/79sk3f2o85q1/150361" target="_blank" style="text-decoration: none; color: black" class="my-btn"><b>MENU'</b></a>
             </div>
         </div>
 
@@ -97,8 +97,8 @@
                     </a>
                 </div>
               
-                <div style="display: flex; justify-content: center; padding-top: 80px">
-                    <a href="https://www.leggimenu.it/menu/79sk3f2o85q1/150361" style="text-decoration: none; color: black" class="my-btn"><b>SCOPRI TUTTE LE BIRRE</b></a>
+                <div style="display: flex; justify-content: center; padding-top: 60px">
+                    <a href="https://www.leggimenu.it/menu/nirvana-da-safi/151313" target="_blank" style="text-decoration: none; color: black" class="my-btn"><b>SCOPRI TUTTE LE BIRRE</b></a>
                 </div>
 
             </div>
